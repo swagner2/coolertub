@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Coming Soon</title>
+    <style>
+      /* CSS code goes here */
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Coming Soon</h1>
+      <ul>
+        <li>Bullet point 1</li>
+        <li>Bullet point 2</li>
+        <li>Bullet point 3</li>
+      </ul>
+      <form>
+        <input type="email" name="email" placeholder="Enter your email">
+        <button type="submit">Submit</button>
+      </form>
+    </div>
+  </body>
+</html>
